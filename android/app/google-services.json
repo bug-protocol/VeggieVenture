@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524672762743",
+    "project_id": "farmfare-3780b",
+    "storage_bucket": "farmfare-3780b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524672762743:android:accf545e7dd8d7555f5772",
+        "android_client_info": {
+          "package_name": "com.farmfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524672762743-bjrg5r158vp71k6gn5gj1lc0b0mqsok6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmfare",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "524672762743-u6oi0eof2gf3hmf0niuchhh6g8lpl2ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv-LfhJTSEYjalfSgiDclNT3PCI2uG1Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524672762743-u6oi0eof2gf3hmf0niuchhh6g8lpl2ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
